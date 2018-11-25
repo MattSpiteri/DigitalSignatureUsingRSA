@@ -1,0 +1,9 @@
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

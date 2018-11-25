@@ -1,0 +1,27 @@
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\DigitalSignatureTest.csproj.CoreCompileInputs.cache
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\DigitalSignatureTest.csproj.CopyComplete
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\DigitalSignatureTest.csprojAssemblyReference.cache
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\DigitalSignatureUsingRSA\DigitalSignatureTest\bin\Debug\ConsoleApp3.exe.config
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\DigitalSignatureUsingRSA\DigitalSignatureTest\bin\Debug\ConsoleApp3.exe
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\DigitalSignatureUsingRSA\DigitalSignatureTest\bin\Debug\ConsoleApp3.pdb
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\DigitalSignatureUsingRSA\DigitalSignatureTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\DigitalSignatureUsingRSA\DigitalSignatureTest\obj\Debug\DigitalSignatureTest.csprojAssemblyReference.cache
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\DigitalSignatureUsingRSA\DigitalSignatureTest\obj\Debug\DigitalSignatureTest.csproj.CoreCompileInputs.cache
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\DigitalSignatureUsingRSA\DigitalSignatureTest\obj\Debug\DigitalSignatureTest.csproj.CopyComplete
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\DigitalSignatureUsingRSA\DigitalSignatureTest\obj\Debug\ConsoleApp3.exe
+C:\Users\matthew.spiteri\Documents\Visual Studio 2017\Projects\DigitalSignatureUsingRSA\DigitalSignatureTest\obj\Debug\ConsoleApp3.pdb
+C:\Users\matthew.spiteri\Documents\DigitalSignatureUsingRSA\DigitalSignatureTest\bin\Debug\ConsoleApp3.exe.config
+C:\Users\matthew.spiteri\Documents\DigitalSignatureUsingRSA\DigitalSignatureTest\bin\Debug\ConsoleApp3.exe
+C:\Users\matthew.spiteri\Documents\DigitalSignatureUsingRSA\DigitalSignatureTest\bin\Debug\ConsoleApp3.pdb
+C:\Users\matthew.spiteri\Documents\DigitalSignatureUsingRSA\DigitalSignatureTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matthew.spiteri\Documents\DigitalSignatureUsingRSA\DigitalSignatureTest\obj\Debug\DigitalSignatureTest.csprojAssemblyReference.cache
+C:\Users\matthew.spiteri\Documents\DigitalSignatureUsingRSA\DigitalSignatureTest\obj\Debug\DigitalSignatureTest.csproj.CoreCompileInputs.cache
+C:\Users\matthew.spiteri\Documents\DigitalSignatureUsingRSA\DigitalSignatureTest\obj\Debug\DigitalSignatureTest.csproj.CopyComplete
+C:\Users\matthew.spiteri\Documents\DigitalSignatureUsingRSA\DigitalSignatureTest\obj\Debug\ConsoleApp3.exe
+C:\Users\matthew.spiteri\Documents\DigitalSignatureUsingRSA\DigitalSignatureTest\obj\Debug\ConsoleApp3.pdb
