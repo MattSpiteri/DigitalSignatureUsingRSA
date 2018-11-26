@@ -7,8 +7,8 @@ The certificates were generated using openSSL through gitBash using the below co
 
 Private:
 
-openssl genrsa -out private.pem 2048
+``` openssl genrsa -out private.pem 2048``` 
 
 Public:
 
-openssl rsa -pubout -in private.pem -out public.pem -outform PEM
+```openssl rsa -pubout -in private.pem -out public.pem -outform PEM```
